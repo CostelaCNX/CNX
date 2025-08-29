@@ -33,7 +33,7 @@ O CostelaBR não detém nenhum direito de cópia sobre nenhum arquivo neste paco
 - O uso do CNX com o propósito diferente do mencionado acima, como rodar cópias (backup) de jogos originais, é parcial ou totalmente proibida pela legislação de certos países.
 - Ao usar o CNX você está declarando ter consultado sua legislação local e estar legalmente apto a usá-lo com o propósito de rodar cópias (backup) dos seus jogos originais.
 - Você está declarando também ser o dono de todos os jogos originais dos quais você fez, faz ou fará cópias (backup).
-- O uso do CNX com o propósito diferente do que é permitido pela sua legislação local será feito sob a sua inteira responsabilidade, isentando-se assim a GameMod design.
+- O uso do CNX com o propósito diferente do que é permitido pela sua legislação local será feito sob a sua inteira responsabilidade.
 - O CostelaBR não comercializa ou instala backup de jogos, ROMs de emuladores nem nenhum conteúdo que habilita a pirataria!
 - O CostelaBR condena a pirataria. Apoie os desenvolvedores de jogos!
 
