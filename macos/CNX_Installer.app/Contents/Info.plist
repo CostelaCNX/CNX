@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>CNX Installer</string>
+    <key>CFBundleDisplayName</key>
+    <string>CNX Pack Installer</string>
+    <key>CFBundleIdentifier</key>
+    <string>br.costelacnx.installer.mac</string>
+    <key>CFBundleVersion</key>
+    <string>1.1</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.1</string>
+    <key>CFBundleExecutable</key>
+    <string>CNX_Installer</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSRequiresAquaSystemAppearance</key>
+    <true/>
+    <key>NSHumanReadableCopyright</key>
+    <string>CostelaBR / macOS port</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>10.15</string>
+</dict>
+</plist>

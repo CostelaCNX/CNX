@@ -1,0 +1,4 @@
+#!/bin/bash
+# Launcher for CNX Pack Installer — uses macOS system Python (has tkinter built in)
+SELF="$(cd "$(dirname "$0")" && pwd)"
+exec /usr/bin/python3 "$SELF/../Resources/CNX_Installer_mac.py"
