@@ -12,7 +12,7 @@
 
 [![GitHub contributors](https://img.shields.io/github/contributors/CostelaCNX/cnx)](https://github.com/CostelaCNX/cnx/graphs/contributors)
 [![GitHub All Releases](https://img.shields.io/github/downloads/CostelaCNX/cnx/total)](https://github.com/CostelaCNX/cnx/releases)
-[![Latest release](https://img.shields.io/github/v/release/CostelaCNX/cnx)](https://github.com/CostelaCNX/cnx/releases)
+[![Latest release](https://img.shields.io/github/v/release/CostelaCNX/CNX)](https://github.com/CostelaCNX/CNX/releases)
 [![GitHub issues](https://img.shields.io/github/issues/CostelaCNX/cnx)](https://github.com/CostelaCNX/cnx/issues)
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
